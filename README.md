@@ -13,9 +13,6 @@ This is my techstack:
 I'm also familiar with C++ and C, where I worked with microchips and automotive software, but I love the way C# goes.
 
 
-I studied Technical Computer Science (B.Sc.) and started with my first full time job in 2018.
-My actual goal is to reach my Senior level.
-
 
 
 <!--
