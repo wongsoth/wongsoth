@@ -1,6 +1,6 @@
 ### Hi there, I'm Stefan.
 
-I'm a Software Engineer with focus on C#/.NET.
+I'm a Software Engineer with focus on C#/.NET. 5+ years of exp
 This is my techstack:
 - .NET6, ASP.NET
 - EF, LINQ
