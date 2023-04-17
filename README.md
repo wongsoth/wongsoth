@@ -1,15 +1,15 @@
 ### Hi there, I'm Stefan.
 
-I'm a Software Engineer with focus on C#/.NET.
+I'm a Senior Software Engineer @ Continental
 
 5+ years of exp.
 
 My techstack:
-- .NET6, ASP.NET
+- C#/.NET, ASP.NET
 - EF, LINQ
 - Blazor, WPF, WinForms
 - log4net, Serilog
-- PostgreSQL, MSSQL
+- PostgreSQL, MSSQL, MySQL, OracleDB
 - IIS, Docker
 - HTML, JS
 
